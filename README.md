@@ -18,8 +18,7 @@ Md. Abdullah Al Mumin, Abu Awal Md. Shoeb, Md. Reza Selim and M. Zafar Iqbal, SU
               number={2},
               pages={46--51},
               year={2012},
-              publisher={Shahjalal University of Science and Technology, Bangladesh}
-}"
+              publisher={Shahjalal University of Science and Technology, Bangladesh}}"
 
 7.	If the corpus fully or partially or any statistics or analysis generated from the corpus is used in any software, it must be acknowledged in a way that the acknowledgement is available to the users of the software.
 
