@@ -9,6 +9,7 @@ Terms and Conditions to use of SUPara Parallel Corpus
 6.	If the corpus fully or partially or any statistics or analysis generated from the corpus is used in any type of publication, the author must acknowledge in that publication or must refer the following paper:
 
 Md. Abdullah Al Mumin, Abu Awal Md. Shoeb, Md. Reza Selim and M. Zafar Iqbal, SUPara: A Balanced English-Bengali Parallel Corpus, SUST Journal of Science and Technology, Vol. 16, No. 2, 2012, pp 46-51.
+
             "@article{mumin2012supara,
               title={SUPara: A Balanced English-Bengali Parallel Corpus},
               author={Mumin, Md Abdullah Al and Shoeb, Abu Awal Md and Selim, Md Reza and Iqbal, M Zafar},
@@ -22,9 +23,3 @@ Md. Abdullah Al Mumin, Abu Awal Md. Shoeb, Md. Reza Selim and M. Zafar Iqbal, SU
 
 7.	If the corpus fully or partially or any statistics or analysis generated from the corpus is used in any software, it must be acknowledged in a way that the acknowledgement is available to the users of the software.
 
-Dr. Mohammad Reza Selim
-Professor and Head
-Dept. of Computer Science and Engineering
-Shahjalal University of Science and Technology
-Sylhet 3114, Bangladesh
-Email: selim@sust.edu, selimbd@yahoo.com
