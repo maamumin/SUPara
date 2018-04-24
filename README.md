@@ -1,4 +1,4 @@
-# SUPara
+# SUPara: English-Bangla Parallel Corpus
 Terms and Conditions to use of SUPara Parallel Corpus
 
 1.	The user must understand that this corpus is the property of the Department of CSE, SUST, Sylhet, Bangladesh and this entity holds the copyrights.
